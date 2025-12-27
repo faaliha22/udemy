@@ -19,8 +19,8 @@ You can view the website here:
 This project was created to practice **HTML and CSS fundamentals** and to build a **Udemy-like clone** as a learning exercise.
 
 ## 📬 Contact
-- GitHub: https://github.com/faaliha2007  
-- Email: faaliha2007@gmail.com  
+- GitHub: https://github.com/faaliha22 
+- Email: faaliha.m2025cse@sece.ac.in  
 
 ##  Thank You
 Thank you for checking out this Udemy clone project.  
