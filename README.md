@@ -5,7 +5,7 @@ The project contains **two pages: Home and Contact**, designed with a simple and
 
 ## 👀 Live View
 You can view the website here:  
-🔗  {    }
+🔗  https://faaliha22.github.io/udemy/
 
 ## 📄 Pages
 - **Home Page** – Showcases the course listings, navigation bar, and basic layout inspired by Udemy  
